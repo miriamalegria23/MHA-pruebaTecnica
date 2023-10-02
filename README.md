@@ -1,2 +1,0 @@
-# MHA-pruebaTecnica
-Prueba técnica
